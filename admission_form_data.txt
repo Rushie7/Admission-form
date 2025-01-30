@@ -1,0 +1,5 @@
+
+Name: Ravindra mallad, Gender: Male, Course: Computer Science
+Name: Darshan, Gender: Male, Course: Computer Science
+Name: rrk, Gender: Male, Course: Medicine
+Name: ravinfdra, Gender: Male, Course: MECH
